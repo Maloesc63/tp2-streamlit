@@ -8,6 +8,7 @@ import streamlit as st
 import numpy as np 
 import pandas as pd
 import seaborn as sns
+import matplotlib as plt
 import time 
 import plotly.express as px
 
